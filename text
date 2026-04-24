@@ -1,0 +1,26 @@
+============================================================
+🚀 STARTING DDOS BLOCK DARK v3.0
+============================================================
+📊 Web Dashboard: http://localhost:5000
+🛡️ Protection Port: 8888
+👤 Founder: Dara Dav (imDara)
+============================================================
+
+╔══════════════════════════════════════════════════════════════════╗
+║         Advanced DDoS Protection & Botnet Defense System        ║
+║                    Founder: Dara Dav (imDara)                    ║
+║                         Version: 3.0                             ║
+╚══════════════════════════════════════════════════════════════════╝
+
+🔒 System Status: 🟢 ACTIVE
+📊 Protection Mode: FULL DEFENSE
+🎯 Rate Limit: 100 req/min
+🎯 Burst Limit: 20 req/sec
+🎯 DDoS Threshold: 500 requests
+============================================================
+
+✅ DDoS Block Dark v3.0 Initialized Successfully
+🛡️ Protection Node Active on Port 8888
+🌐 Listening for incoming connections...
+ * Serving Flask app 'ddos_block_dark'
+ * Running on http://0.0.0.0:5000
